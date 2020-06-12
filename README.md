@@ -1,2 +1,2 @@
 # CopiarArchivosDeServidor
-Copia archivos desde otra maquina en red
+Copia archivos desde un servidor o computador en red.
